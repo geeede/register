@@ -1,0 +1,17 @@
+{
+  "description": "Welcome to my little place in the internet",
+  "owner": {
+    "username": "emre",
+    "email": "hello@emre.is-a.dev"
+  },
+  "records": {
+    "CNAME": "geeede.github.io"
+  },
+{
+  "records": {
+    "A": [
+    ],
+    "AAAA": [
+    ]
+  }
+}
